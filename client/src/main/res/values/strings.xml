@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="server_host_login">Server Host:</string>
+    <string name="server_port_login">Server Port:</string>
+    <string name="username_login">Username:</string>
+    <string name="password_login">Password:</string>
+    <string name="first_name_login">First Name:</string>
+    <string name="last_name_login">Last Name:</string>
+    <string name="email_login">Email:</string>
+    <string name="gender_login">Gender:</string>
+    <string name="female_login">Female</string>
+    <string name="male_login">Male</string>
+    <string name="default_host">10.0.2.2</string>
+    <string name="default_port">8080</string>
+    <string name="default_username">sheila</string>
+    <string name="default_password">parker</string>
+
+    <string name="sign_in_button">Sign in</string>
+    <string name="login_text">Successfully logged in!</string>
+    <string name="register_button">Register</string>
+    <string name="register_text">Successfully registered!</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="hello_map_fragment">Welcome to Family Map!</string>
+    <string name="map_fragment_default">Click on a marker to see event details</string>
+    <string name="search_string">Search</string>
+
+    <string name="event_default">Event Info</string>
+    <string name="event_default_per">Event Person</string>
+
+    <string name="setting_default">Settings</string>
+    <string name="setting_default_description">Setting Description</string>
+
+    <string name="settings_story_lines">Show Life Story</string>
+    <string name="settings_show_story_lines">Shows Life Story Lines</string>
+    <string name="settings_tree_lines">Family Tree Lines</string>
+    <string name="settings_show_tree_lines">Shows Family Tree Lines</string>
+    <string name="settings_spouse_lines">Spouse Lines</string>
+    <string name="settings_show_spouse_lines">Shows Spouse Lines</string>
+    <string name="settings_fathers_side">Father\'s Side</string>
+    <string name="settings_fathers_side_description">Filter by Father\'s side of the family</string>
+    <string name="settings_mothers_side_text">Mother\'s Side</string>
+    <string name="settings_male_events">Male Events</string>
+    <string name="settings_female_events">Female Events</string>
+
+
+    <string name="settings_logout">Logout</string>
+    <string name="settings_logout_info">Returns to Login Screen</string>
+
+    <string-array name="life_story_colors">
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Magenta</item>
+    </string-array>
+
+    <string-array name="family_tree_colors">
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Black</item>
+    </string-array>
+
+    <string-array name="spouse_color">
+        <item>Gray</item>
+        <item>White</item>
+        <item>Cyan</item>
+    </string-array>
+</resources>
